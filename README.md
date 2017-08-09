@@ -1,1 +1,1 @@
-This is the git repository where I put all the code that I work on that are specifically for my blog posts.
+This is the git repository where I put all the code that I work on that's specifically for my blog posts.
